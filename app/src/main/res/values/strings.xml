@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">RVHomework</string>
+    <string name="main_title">Stock Market</string>
+    <string name="value">Value :</string>
+    <string name="delta">Delta :</string>
+    <string name="desc" >Desc  :</string>
+
+    <string-array name="stock_name">
+        <item>Alamo Group, Inc.</item>
+        <item>TechnipFMC plc</item>
+        <item>Genetic Technologies Ltd</item>
+        <item>Manitowoc Company Inc.</item>
+        <item>HSN, Inc.</item>
+        <item>Gladstone Land Corporation</item>
+        <item>Interlink Electronics, Inc.</item>
+        <item>Canadian Pacific Railway Limited</item>
+        <item>Cohen Steers Limited Duration Preferred and Income Fund, Inc</item>
+        <item>Natural Resource Partners LP</item>
+        <item>Lianluo Smart Limited</item>
+        <item>Tennessee Valley Authority</item>
+        <item>Marten Transport, Ltd.</item>
+        <item>Fifth Street Finance Corp.</item>
+        <item>Eastman Kodak Company</item>
+    </string-array>
+
+    <string-array name="stock_value">
+        <item>$327.13</item>
+        <item>$668.18</item>
+        <item>$76.99</item>
+        <item>$848.87</item>
+        <item>$356.40</item>
+        <item>$381.25</item>
+        <item>$400.99</item>
+        <item>$987.18</item>
+        <item>$151.46</item>
+        <item>$655.74</item>
+        <item>$817.12</item>
+        <item>$763.74</item>
+        <item>$113.40</item>
+        <item>$259.06</item>
+        <item>$185.00</item>
+    </string-array>
+
+    <string-array name="stock_delta">
+        <item>-11.7%</item>
+        <item>+0.41%</item>
+        <item>-5.24%</item>
+        <item>+14.45%</item>
+        <item>-0.94%</item>
+        <item>+7.39%</item>
+        <item>+13.14%</item>
+        <item>-13.98%</item>
+        <item>-8.38%</item>
+        <item>-12.31%</item>
+        <item>+5.87%</item>
+        <item>+4.68%</item>
+        <item>+2.97%</item>
+        <item>-10.64%</item>
+        <item>-4.35%</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Nulla facilisi. Cras non velit nec nisi vulputate nonummy.</item>
+        <item>Nulla ut erat id mauris vulputate elementum.</item>
+        <item>Duis ac nibh.</item>
+        <item>Nullam porttitor lacus at turpis.</item>
+        <item>Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.</item>
+        <item>Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.</item>
+        <item>Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.</item>
+        <item>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.</item>
+        <item>In hac habitasse platea dictumst.</item>
+        <item>Nullam varius. Nulla facilisi.</item>
+        <item>Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.</item>
+        <item>Duis aliquam convallis nunc.</item>
+        <item>Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.</item>
+        <item>Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.</item>
+        <item>Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.</item>
+    </string-array>
+</resources>
